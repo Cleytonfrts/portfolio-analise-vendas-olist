@@ -25,5 +25,4 @@ Este projeto completo de Business Intelligence simula uma análise ponta a ponta
 ## 5. Como Utilizar este Projeto
 1.  Clone o repositório.
 2.  Execute o script `01_create_tables.sql` em um banco de dados PostgreSQL para criar a estrutura do DWH.
-3.  (Opcional) Realize o processo de carga dos dados para o banco.
-4.  Abra o arquivo `.pbix` para visualizar e interagir com o dashboard final.
+3.  Abra o arquivo `.pbix` para visualizar e interagir com o dashboard final.
